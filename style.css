@@ -127,7 +127,7 @@ body.dark-theme{
   grid-gap:0.5em;
 }
 .content-users .card-user{
-  width:50%;
+  width:100%;
   height:205px;
   background-color:var(--bg-card);
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
